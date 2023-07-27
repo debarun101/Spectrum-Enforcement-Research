@@ -1,9 +1,9 @@
 # Spectrum-Enforcement-Research
 
-1) For Running the simulation code:
-
 $cd Spectrum-Enforcement-main
 
+
+1) For Running the simulation code:
 
 
 $make
