@@ -5,6 +5,7 @@
 $cd Spectrum-Enforcement-main
 
 
+
 $make
 
 $./simul
