@@ -2,7 +2,7 @@
 
 1) For Running the simulation code:
 
-
+$cd Spectrum-Enforcement-main
 $make
 
 $./simul
